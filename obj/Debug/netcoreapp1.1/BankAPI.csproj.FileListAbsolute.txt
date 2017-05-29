@@ -1,0 +1,9 @@
+c:\users\happy.shandilya\documents\visual studio 2017\Projects\BankAPI\BankAPI\bin\Debug\netcoreapp1.1\BankAPI.deps.json
+c:\users\happy.shandilya\documents\visual studio 2017\Projects\BankAPI\BankAPI\bin\Debug\netcoreapp1.1\BankAPI.runtimeconfig.json
+c:\users\happy.shandilya\documents\visual studio 2017\Projects\BankAPI\BankAPI\bin\Debug\netcoreapp1.1\BankAPI.runtimeconfig.dev.json
+c:\users\happy.shandilya\documents\visual studio 2017\Projects\BankAPI\BankAPI\bin\Debug\netcoreapp1.1\BankAPI.dll
+c:\users\happy.shandilya\documents\visual studio 2017\Projects\BankAPI\BankAPI\obj\Debug\netcoreapp1.1\BankAPI.csprojResolveAssemblyReference.cache
+c:\users\happy.shandilya\documents\visual studio 2017\Projects\BankAPI\BankAPI\obj\Debug\netcoreapp1.1\BankAPI.AssemblyInfo.cs
+c:\users\happy.shandilya\documents\visual studio 2017\Projects\BankAPI\BankAPI\bin\Debug\netcoreapp1.1\BankAPI.pdb
+c:\users\happy.shandilya\documents\visual studio 2017\Projects\BankAPI\BankAPI\obj\Debug\netcoreapp1.1\BankAPI.dll
+c:\users\happy.shandilya\documents\visual studio 2017\Projects\BankAPI\BankAPI\obj\Debug\netcoreapp1.1\BankAPI.pdb
